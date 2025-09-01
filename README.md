@@ -2,6 +2,10 @@
 
 Liver Guardian App is a fullstack application for analyzing and predicting liver-related health conditions. The project integrates a Python backend with a machine learning model and a modern frontend built with React and Tailwind CSS, providing an interactive interface for users to input clinical data and receive predictions.
 
+https://github.com/user-attachments/assets/361a24df-dc8f-4460-9272-bc9e6453d452
+
+
+
 ---
 
 ## Project Structure
